@@ -31,7 +31,7 @@ print("Number of Words: ",num)
 ```
 ### OUTPUT:
 
-<img width="208" alt="image" src="https://github.com/EPriyadharshini/command-line-arguments-to-count-word/assets/144870831/0a103e66-6b0e-46e1-9a78-3befff78fe01">
+<img width="161" alt="image" src="https://github.com/EPriyadharshini/command-line-arguments-to-count-word/assets/144870831/f8600e30-4e0b-457f-bf66-426d687835f4">
 
 
 ## RESULT:
